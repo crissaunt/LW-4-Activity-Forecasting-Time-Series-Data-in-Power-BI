@@ -1,4 +1,5 @@
 # LW-4-Activity-Forecasting-Time-Series-Data-in-Power-BI
 
 
-[s.pdf](https://github.com/user-attachments/files/27278955/s.pdf)
+[lw4.pdf](https://github.com/user-attachments/files/27279331/lw4.pdf)
+
